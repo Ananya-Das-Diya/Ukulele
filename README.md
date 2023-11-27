@@ -8,8 +8,7 @@ Features:
 5. Informative Messages: Users receive feedback messages, such as chord not found or a welcome message, enhancing the user experience.
 
 Notes:
-To add more chords, expand the chordMap in the main function by associating chord names with their respective fret positions. The displayChordDiagram function serves as a placeholder; you can implement more sophisticated chord diagram logic based on the actual ukulele finger positions.Ensure proper error handling for user input, such as checking for valid chord names.The project can be extended by incorporating a graphical user interface (GUI) for a more user-friendly experience.Consider documenting and organizing the code for better maintainability and readabiliDas
-
+To add more chords, expand the chordMap in the main function by associating chord names with their respective fret positions. The displayChordDiagram function serves as a placeholder; you can implement more sophisticated chord diagram logic based on the actual ukulele finger positions.Ensure proper error handling for user input, such as checking for valid chord names.
 
 Ananya Das
  
